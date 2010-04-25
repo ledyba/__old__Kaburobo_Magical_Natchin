@@ -1,0 +1,291 @@
+2005/09/29 12:48:22 jp.kaburobo.driver.KabuRoboDriver start
+level: INFO type: name
+
+    psi.kaburobo.Falco.Main start
+
+2005/09/29 12:48:24 jp.kaburobo.driver.KabuRoboDriver start
+level: INFO type: driver
+
+    DAY 1: 2004/04/01 木
+    資金: 10,000,000pts 取引可能金額: 10,000,000pts
+    
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    積水ハウス 建設業 : (1131.0->1137.4)1050.6800130208333->1050.6800130208333
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 1928 積水ハウス 建設業 500000pts 成行
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    森永製菓 食料品 : (226.88->227.24)199.28800048828126->199.28800048828126
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 2201 森永製菓 食料品 500000pts 成行
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    アサヒビール 食料品 : (1151.96->1155.68)917.05595703125->917.05595703125
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 2502 アサヒビール 食料品 500000pts 成行
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    味の素 食料品 : (1216.84->1218.0)1164.9771205357142->1164.9771205357142
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 2802 味の素 食料品 500000pts 成行
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    東レ 繊維製品 : (440.28->443.4)429.3066813151042->429.3066813151042
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 3402 東レ 繊維製品 500000pts 成行
+
+2005/09/29 12:48:24 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    王子製紙 パルプ・紙 : (672.36->675.76)651.6900024414062->651.6900024414062
+
+2005/09/29 12:48:24 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 3861 王子製紙 パルプ・紙 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    花王 化学 : (2345.4->2346.0)2273.3599609375->2273.3599609375
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 4452 花王 化学 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    山之内製薬 医薬品 : (3610.4->3604.0)3237.4400390625->3237.4400390625
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 4503 山之内製薬 医薬品 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    エーザイ 医薬品 : (2848.2->2846.8)2764.6334635416665->2764.6334635416665
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 4523 エーザイ 医薬品 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    資生堂 化学 : (1329.4->1330.6)1242.6515066964287->1242.6515066964287
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 4911 資生堂 化学 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    昭和シェル石油 石油石炭製品 : (897.52->901.32)839.86669921875->839.86669921875
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 5002 昭和シェル石油 石油石炭製品 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    ブリヂストン ゴム製品 : (1635.36->1635.88)1527.239955357143->1527.239955357143
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 5108 ブリヂストン ゴム製品 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    日本板硝子ガラス 土石製品 : (404.28->405.48)379.6199951171875->379.6199951171875
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 5202 日本板硝子ガラス 土石製品 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    住友電気工業 非鉄金属 : (939.56->940.76)947.7699584960938->947.7699584960938
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    購入: 5802 住友電気工業 非鉄金属 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    ダイキン工業 機械 : (2522.4->2530.4)2344.257254464286->2344.257254464286
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 6367 ダイキン工業 機械 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    シャープ 電気機器 : (1834.32->1836.56)1757.1700439453125->1757.1700439453125
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 6753 シャープ 電気機器 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    アルプス電気 電気機器 : (1474.68->1479.6)1621.6800130208333->1621.6800130208333
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    購入: 6770 アルプス電気 電気機器 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    トヨタ自動車 輸送用機器 : (3834.8->3836.0)3461.6->3461.6
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 7203 トヨタ自動車 輸送用機器 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    本田技研工業 輸送用機器 : (4831.6->4831.2)4573.280078125->4573.280078125
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 7267 本田技研工業 輸送用機器 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    ニコン 精密機器 : (1339.4->1338.96)1560.719970703125->1560.719970703125
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    購入: 7731 ニコン 精密機器 500000pts 成行
+
+2005/09/29 12:48:25 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    シチズン時計 精密機器 : (974.84->977.12)905.306640625->905.306640625
+
+2005/09/29 12:48:25 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 7762 シチズン時計 精密機器 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    凸版印刷 その他製品 : (1321.08->1325.68)1062.3067220052083->1062.3067220052083
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 7911 凸版印刷 その他製品 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    ヤマハ その他製品 : (1956.88->1952.96)2023.4200439453125->2023.4200439453125
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    購入: 7951 ヤマハ その他製品 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    伊藤忠 商事卸売業 : (430.88->435.68)358.760009765625->358.760009765625
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 8001 伊藤忠 商事卸売業 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    三井物産 商事卸売業 : (893.04->898.28)823.8200073242188->823.8200073242188
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 8031 三井物産 商事卸売業 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    ｾﾌﾞﾝ-ｲﾚﾌﾞﾝ･ｼﾞｬﾊﾟﾝ 小売業 : (3609.2->3629.6)3340.8001302083335->3340.8001302083335
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 8183 ｾﾌﾞﾝ-ｲﾚﾌﾞﾝ･ｼﾞｬﾊﾟﾝ 小売業 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    高島屋 小売業 : (1073.76->1085.0)816.760009765625->816.760009765625
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 8233 高島屋 小売業 500000pts 成行
+
+2005/09/29 12:48:26 psi.kaburobo.Falco.eachStockAnalyzer decide
+level: INFO type: output
+
+    イオン 小売業 : (2159.6->2175.6)1675.1300048828125->1675.1300048828125
+
+2005/09/29 12:48:26 jp.kaburobo.investment.FlexibleInvestmentAgent order
+level: INFO type: order
+
+    売却: 8267 イオン 小売業 500000pts 成行

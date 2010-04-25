@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/kaburobo.jar"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/mysql-connector-java-3.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/robogram.jar"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/workbench.jar"/>
+	<classpathentry kind="lib" path="E:/prog/Java-libClass/kaburobo/lib/xalan.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
